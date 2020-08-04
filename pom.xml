@@ -3,10 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.javarticles.webapp</groupId>
 	<artifactId>webappExample</artifactId>
-	<configuration>
-        <source>1.6</source>
-        <target>1.6</target>
-    </configuration>
+	
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>webappExample Maven Webapp</name>
@@ -37,6 +34,15 @@
         <path>/webAppExample</path>
     </configuration>
 </plugin>
+			<plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-compiler-plugin</artifactId>
+    <configuration>
+        <source>1.6</source>
+        <target>1.6</target>
+    </configuration>
+</plugin>
+			
 </plugins>
 	</build>
 </project>
