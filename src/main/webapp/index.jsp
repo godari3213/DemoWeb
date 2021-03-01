@@ -9,7 +9,7 @@
    <br> </br>
   <a href="www.lkm.accenture.com" > Check my videos on Accenture media Exchange </a>
   <a href="www.lkm.TechVersant.com" > Welcome to TechVersant Acadamey </a>
-  <br>
-  <h6> LKM Training in March 2021 <h6>
+  <br> </br>
+  <h6> LKM Training in March 2021 </h6>
 </body>
 </html>
