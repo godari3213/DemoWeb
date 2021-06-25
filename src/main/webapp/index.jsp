@@ -10,7 +10,7 @@
   <a href="www.lkm.accenture.com" > Check my videos on Accenture media Exchange </a>
   <a href="www.lkm.TechVersant.com" > Welcome to TechVersant Acadamey </a>
   <br> </br>
-  <h6> LKM Training in March 2021 </h6>
+  <h6> LKM Training in JUne 2021 </h6>
   
   <br> </br>
   <h1> SDET DEMO <h1>
